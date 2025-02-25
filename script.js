@@ -18,7 +18,7 @@ function getRandomColor() {
 //Sets the background color of the box.
 //Stores the hex code inside of the div using the setAttribute method.
 //Adds an event listener to the color box, so that when the box is clicked, the copyToClipboard function is called.
-//Appends the box to the palette.
+//Appends the box to the palette
 
 function generatePalette() {
     const palette = document.getElementById('palette');
