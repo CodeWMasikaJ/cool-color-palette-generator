@@ -12,7 +12,7 @@ This simple web application generates random color palettes and allows you to co
 ## Files
 
 * `index.html`: The main HTML file that sets up the webpage structure.
-* `style.css`: The CSS file that styles the webpage.
+* `styles.css`: The CSS file that styles the webpage.
 * `script.js`: The JavaScript file that generates the color palettes and handles the copy-to-clipboard functionality.
 
 ## How it Works
